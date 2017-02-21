@@ -1,6 +1,6 @@
 'use strict';
 
-var istanbulLibInstrument = require('istanbul-lib-instrument');
+var istanbulLibInstrument = require('sl-node-cover');
 var loaderUtils = require('loader-utils');
 var assign = require('object-assign');
 var convert = require('convert-source-map');
